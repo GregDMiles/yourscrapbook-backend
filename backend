@@ -1,0 +1,13 @@
+backend/
+├── models/
+│   ├── User.js
+│   └── Media.js
+├── routes/
+│   ├── auth.js
+│   └── media.js
+├── middleware/
+│   └── authMiddleware.js
+├── .env.example
+├── .gitignore
+├── server.js
+├── package.json
